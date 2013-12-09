@@ -3,5 +3,5 @@ My GitHub Landing Page
 
 Static website hosting by GitHub.
 
-- Repositories
+- My Repositories
 - Google+ User Badge
