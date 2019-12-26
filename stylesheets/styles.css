@@ -324,7 +324,7 @@ fieldset {
 
 /*
  * 1. Corrects color not being inherited in IE6/7/8/9
- * 2. Corrects text not wrapping in FF3 
+ * 2. Corrects text not wrapping in FF3
  * 3. Corrects alignment displayed oddly in IE6/7
  */
 legend {
@@ -467,7 +467,7 @@ body {
   margin: 0px;
   color: #222;
   font-weight: normal;
-  background: #F4F5F6';
+  background: #F4F5F6;
   background-attachment: fixed !important;
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #F4F5F6), color-stop(100%, #FFFFFF));
   background: -webkit-linear-gradient(#F4F5F6, #FFFFFF);
